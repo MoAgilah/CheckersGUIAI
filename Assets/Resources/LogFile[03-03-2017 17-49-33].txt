@@ -1,0 +1,3 @@
+[17:49:36] Controls has changed it's menu orientation
+[17:49:37] Returned to Rules Main menu from Controls
+[17:49:39] Controls has changed it's menu orientation

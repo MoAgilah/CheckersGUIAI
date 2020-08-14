@@ -1,0 +1,8 @@
+[17:43:37] Controls has changed it's menu orientation
+[17:43:40] Returned to Rules Main menu from Debug
+[17:43:41] Controls has changed it's menu orientation
+[17:43:44] Returned to Rules Main menu from Debug
+[17:43:45] Controls has changed it's menu orientation
+[17:43:47] Returned to Rules Main menu from Debug
+[17:43:48] Controls has changed it's menu orientation
+[17:43:49] Returned to Rules Main menu from Debug

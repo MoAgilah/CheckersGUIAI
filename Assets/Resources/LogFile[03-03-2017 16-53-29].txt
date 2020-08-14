@@ -1,0 +1,1076 @@
+[16:53:30] MainMenu has changed it's menu orientation
+[16:53:33] The selected game mode is EvE
+[16:53:33] Scene changed to Game from MainMenu
+[16:53:34] The board has been generated as
+.o.o.o.o
+o.o.o.o.
+.o.o.o.o
+........
+........
+t.t.t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] A new game has began
+It's dark team up first
+
+[16:53:34] A.I. Player 1
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+.o.o.o.o
+........
+........
+t.t.t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+o.......
+........
+t.t.t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+o.......
+........
+t.t.t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+o.......
+.t......
+t...t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 1 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] Game has been paused
+[16:53:34] Game has been unpaused
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+o.......
+.t......
+t...t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+........
+........
+t.o.t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 2 forced moves
+[16:53:34] has 5 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+........
+........
+t.o.t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+........
+...t....
+t...t.t.
+...t.t.t
+t.t.t.t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o.o.o
+........
+...t....
+t...t.t.
+...t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o...o
+......o.
+...t....
+t...t.t.
+...t.t.t
+t.t.t.t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o...o
+......o.
+...t....
+t...t.t.
+...t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o...o
+......o.
+...t.t..
+t...t...
+...t.t.t
+t.t.t.t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o...o
+......o.
+...t.t..
+t...t...
+...t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t.o
+t...t...
+...t.t.t
+t.t.t.t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 10 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t.o
+t...t...
+...t.t.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t.o
+t...t.t.
+...t...t
+t.t.t.t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 1 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t.o
+t...t.t.
+...t...t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t..
+t...t...
+...t.o.t
+t.t.t.t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 1 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t..
+t...t...
+...t.o.t
+t.t.t.t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t..
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o...o
+........
+...t.t..
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o....
+......o.
+...t.t..
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o....
+......o.
+...t.t..
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+...o...t
+........
+...t....
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 6 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+...o...t
+........
+...t....
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+.......t
+..o.....
+...t....
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 1 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+.......t
+..o.....
+...t....
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.o.o.o.
+.t.....t
+........
+........
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 2 forced moves
+[16:53:34] has 4 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.o.o.o.
+.t.....t
+........
+........
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o...o.o.
+.......t
+o.......
+........
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o...o.o.
+.......t
+o.......
+........
+t...t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o...o.o.
+.......t
+o.......
+.t......
+....t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 1 forced moves
+[16:53:34] has 6 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o...o.o.
+.......t
+o.......
+.t......
+....t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o...o.o.
+.......t
+........
+........
+..o.t.t.
+...t...t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 1 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o...o.o.
+.......t
+........
+........
+..o.t.t.
+...t...t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o...o.o.
+.......t
+........
+.t......
+....t.t.
+.......t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 6 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o...o.o.
+.......t
+........
+.t......
+....t.t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.....o.
+.....o.t
+........
+.t......
+....t.t.
+.......t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 10 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.....o.
+.....o.t
+........
+.t......
+....t.t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.....o.
+.....o.t
+........
+.t.t....
+......t.
+.......t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.....o.
+.....o.t
+........
+.t.t....
+......t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.....o.
+.......t
+......o.
+.t.t....
+......t.
+.......t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 10 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.....o.
+.......t
+......o.
+.t.t....
+......t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.....o.
+.......t
+....t.o.
+.t......
+......t.
+.......t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 8 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.....o.
+.......t
+....t.o.
+.t......
+......t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.....o.
+.......t
+....t...
+.t...o..
+......t.
+.......t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.....o.
+.......t
+....t...
+.t...o..
+......t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.....o.
+.....t.t
+........
+.t...o..
+......t.
+.......t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 1 forced moves
+[16:53:34] has 6 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.....o.
+.....t.t
+........
+.t...o..
+......t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.......
+.......t
+....o...
+.t...o..
+......t.
+.......t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 8 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.......
+.......t
+....o...
+.t...o..
+......t.
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.......
+.......t
+....o...
+.t...o.t
+........
+.......t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 10 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.......
+.......t
+....o...
+.t...o.t
+........
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.......
+.......t
+....o...
+.t.....t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.......
+.......t
+....o...
+.t.....t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+o.......
+.......t
+..t.o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 11 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+o.......
+.......t
+..t.o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+........
+.o.....t
+..t.o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 1 forced moves
+[16:53:34] has 8 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+........
+.o.....t
+..t.o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o.o.o.o
+t.......
+.......t
+....o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 10 valid moves
+[16:53:34] The board before search
+.o.o.o.o
+t.......
+.......t
+....o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o...o.o
+t.o.....
+.......t
+....o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o...o.o
+t.o.....
+.......t
+....o...
+.......t
+....o...
+.......t
+t.t...t.
+
+[16:53:34] The board after search
+.o...o.o
+t.o.....
+.......t
+....o...
+.......t
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o...o.o
+t.o.....
+.......t
+....o...
+.......t
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] The board after search
+.o...o.o
+t.......
+...o...t
+....o...
+.......t
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o...o.o
+t.......
+...o...t
+....o...
+.......t
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] The board after search
+.o...o.o
+t.......
+...o...t
+....o.t.
+........
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 9 valid moves
+[16:53:34] The board before search
+.o...o.o
+t.......
+...o...t
+....o.t.
+........
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] The board after search
+.o.....o
+t.....o.
+...o...t
+....o.t.
+........
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 1 forced moves
+[16:53:34] has 6 valid moves
+[16:53:34] The board before search
+.o.....o
+t.....o.
+...o...t
+....o.t.
+........
+....o...
+.t.....t
+..t...t.
+
+[16:53:34] The board after search
+.o.....o
+t.....o.
+...o...t
+....o.t.
+........
+..t.o...
+.......t
+..t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.....o
+t.....o.
+...o...t
+....o.t.
+........
+..t.o...
+.......t
+..t...t.
+
+[16:53:34] The board after search
+.o.....o
+t.......
+...o.o.t
+....o.t.
+........
+..t.o...
+.......t
+..t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 1 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.....o
+t.......
+...o.o.t
+....o.t.
+........
+..t.o...
+.......t
+..t...t.
+
+[16:53:34] The board after search
+.o.....o
+t...t...
+...o...t
+....o...
+........
+..t.o...
+.......t
+..t...t.
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 7 valid moves
+[16:53:34] The board before search
+.o.....o
+t...t...
+...o...t
+....o...
+........
+..t.o...
+.......t
+..t...t.
+
+[16:53:34] The board after search
+.o.....o
+t...t...
+...o...t
+....o...
+........
+..t.....
+.....o.t
+..t...t.
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 1 forced moves
+[16:53:34] has 8 valid moves
+[16:53:34] The board before search
+.o.....o
+t...t...
+...o...t
+....o...
+........
+..t.....
+.....o.t
+..t...t.
+
+[16:53:34] The board after search
+.o.....o
+t...t...
+...o...t
+....o...
+........
+..t.t...
+.......t
+..t.....
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 0 forced moves
+[16:53:34] has 5 valid moves
+[16:53:34] The board before search
+.o.....o
+t...t...
+...o...t
+....o...
+........
+..t.t...
+.......t
+..t.....
+
+[16:53:34] The board after search
+.o.....o
+t...t...
+...o...t
+........
+...o....
+..t.t...
+.......t
+..t.....
+
+[16:53:34] It's Light team's turn
+[16:53:34] A.I. Player 2
+[16:53:34] has 2 forced moves
+[16:53:34] has 8 valid moves
+[16:53:34] The board before search
+.o.....o
+t...t...
+...o...t
+........
+...o....
+..t.t...
+.......t
+..t.....
+
+[16:53:34] The board after search
+.o.....o
+t.t.t...
+.......t
+........
+........
+....t...
+.......t
+..t.....
+
+[16:53:34] It's Dark team's turn
+[16:53:34] A.I. Player 1
+[16:53:34] has 1 forced moves
+[16:53:35] has 1 valid moves
+[16:53:35] The board before search
+.o.....o
+t.t.t...
+.......t
+........
+........
+....t...
+.......t
+..t.....
+
+[16:53:35] The board after search
+.......o
+t...t...
+...o...t
+........
+........
+....t...
+.......t
+..t.....
+
+[16:53:35] It's Light team's turn
+[16:53:35] A.I. Player 2
+[16:53:35] has 0 forced moves
+[16:53:35] has 9 valid moves
+[16:53:35] The board before search
+.......o
+t...t...
+...o...t
+........
+........
+....t...
+.......t
+..t.....
+
+[16:53:35] The board after search
+.......o
+t...t.t.
+...o....
+........
+........
+....t...
+.......t
+..t.....
+
+[16:53:35] It's Dark team's turn
+[16:53:35] A.I. Player 1
+[16:53:35] has 1 forced moves
+[16:53:35] has 2 valid moves
+[16:53:35] Game has been paused

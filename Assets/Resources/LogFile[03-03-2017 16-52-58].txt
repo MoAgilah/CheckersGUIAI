@@ -1,0 +1,17 @@
+[16:53:04] MainMenu has changed it's menu orientation
+[16:53:10] The selected game mode is PvP
+[16:53:10] Scene changed to Game from MainMenu
+[16:53:11] The board has been generated as
+.o.o.o.o
+o.o.o.o.
+.o.o.o.o
+........
+........
+t.t.t.t.
+.t.t.t.t
+t.t.t.t.
+
+[16:53:11] A new game has began
+It's dark team up first
+
+[16:53:11] Human player 1
